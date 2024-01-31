@@ -1,24 +1,13 @@
-Mon métier de développeur et mes expériences précédentes m'apportent une vision systémique de la conception d'un produit ou service du numérique.
+Transposez vos besoins métiers en solutions numériques.
 
-Je peux intervenir à tous les niveaux de la chaîne de production, faire interface entre les différentes parties prenantes et collaborer efficacement avec les experts métiers.
+J'ai 2 ans d'expérience en tant que développeur full stack et 12 ans dans le numérique. Je maîtrise l'ensemble de la chaîne de conception d'un produit ou service du numérique. J'ai une connaissance avancée des secteurs de l'éducation, de l'édition et de l'industrie du jeu vidéo.
 
-Soucieux de la qualité et de la pérennité des développements sur le long terme, je m'attache à suivre les bonnes pratiques de l'artisanat logiciel (Software Craftsmanship) en me challengeant sur les fondamentaux. 
+Ayant travaillé dans les industries graphiques, dans le secteur du ferroviaire et exercé de nombreux métiers liés au numérique, je peux faire interface avec l'ensemble des parties prenantes d'un projet applicatif (stratégie, management, marketing, référencement, chaîne d'approvisionnement, investisseurs) pour répondre au mieux à leurs besoins métiers.
 
-Doté d'un socle de bases solides, je peux passer de n'importe quel langage informatique à un autre avec plus ou moins d'aisance : les langages ne sont que des outils au service de la pensée.
+J'ai du potentiel, j'apprends vite et ma curiosité naturelle me permet d'atteindre toujours mes objectifs. Je suis sensibilisé aux bonnes pratiques de l'artisanat logiciel, à l'architecture logicielle, aux design patterns, au clean code et possède de nombreux ouvrages sur le domaine dans lesquels je peux piocher et approfondir de nouveaux concepts pour sans cesse m'améliorer.
 
-𝗠𝗮 𝘃𝗶𝘀𝗶𝗼𝗻 𝗱𝘂 𝗻𝘂𝗺𝗲́𝗿𝗶𝗾𝘂𝗲
+J'ai un très bon niveau en conception d'interfaces et en modélisation de bases de données. Je suis aussi à l'aise en front end qu'en back end. La fusion des deux mondes me permet d'anticiper davantage de scénarios et de prendre de meilleures décisions.
 
-Je travaille en faveur :
-🙋‍♀️ d'une meilleure Éducation grâce au numérique ;
-🖼 de l'élévation du niveau de la création numérique ;
-🥖 de la souveraineté numérique ;
-♻️ de la neutralité carbone du web ;
-🌐 de la réduction de la fracture numérique.
+Grâce à mes expériences précédentes, j'ai des compétences en référencement, monétisation, accessibilité web, droit de l'Internet, protection des données personnelles et optimisation d'applications (poids des pages, largeur des requêtes, gestion du cache) et cela m'apporte énormément dans mon travail de tous les jours.
 
-𝗠𝗲 𝗰𝗼𝗻𝘁𝗮𝗰𝘁𝗲𝗿 𝗲𝘁 𝗿𝗲́𝘀𝗲𝗮𝘂𝘁𝗲𝗿
-
-🙌 Je n'accepte dans mon réseau professionnel LinkedIn que des contacts partageant les mêmes valeurs et centres d'intérêts et une vision commune de nos métiers.
-
-🔎 Je n'accepte que très rarement les invitations d'individus n'ayant pas pris le temps de consulter mon profil. Le message d'accroche doit être très pertinent.
-
-📞 Mes appels entrants sont filtrés contre les spams, appels indésirables et démarchages. Je suis souvent occupé, focalisé sur des tâches et ne réponds pas tout de suite donc merci de privilégier messages et mails.
+Je suis un développeur au profil entrepreneurial et orienté business mais également soucieux de délivrer une prestation de qualité. Générer de la valeur tout en s'assurant de la qualité et de la maintenabilité du code est un équilibre essentiel à conserver pour durer dans le temps et faire évoluer son produit.
